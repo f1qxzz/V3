@@ -1,34 +1,28 @@
 const fs = require('fs');
 const chalk = require('chalk');
 
-/*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : wa.me/6282113821188
-*/
-
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','6281356484612','6285773557984']
+global.owner = ['62895422604542','6287787968135','6289643780393']
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'f1qxzz'
+global.botname = 'f1q V4'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
-	thumbnailUrl: 'https://telegra.ph/file/fe4843a1261fc414542c4.jpg',
+	thumbnailUrl: 'https://i.pinimg.com/originals/d2/d8/4a/d2d84af7e4c6b6c33a606d3127f4d31e.gif',
 	thumbnail: fs.readFileSync('./src/media/naze.png'),
 	docs: fs.readFileSync('./src/media/fake.pdf'),
 	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','application/vnd.openxmlformats-officedocument.presentationml.presentation','application/vnd.openxmlformats-officedocument.wordprocessingml.document','application/pdf'],
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
+	ig: 'https://instagram.com/f1qxzz_/',
+	gh: 'https://github.com/f1qxzz',
+	gc: 'https://whatsapp.com/channel/0029VarFOap9Bb5zAzkiqF1G',
 	ch: '120363250409960161@newsletter',
 }
 
