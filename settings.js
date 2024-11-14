@@ -4,7 +4,7 @@ const chalk = require('chalk');
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 global.owner = ['62895422604542','6287787968135','6289643780393']
-global.packname = 'Bot WhatsApp'
+global.packname = 'V4'
 global.author = 'f1qxzz'
 global.botname = 'f1q V4'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
