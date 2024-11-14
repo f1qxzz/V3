@@ -1,5 +1,5 @@
 {
-  "name": "hitori",
+  "name": "V4",
   "version": "1.0.2",
   "description": "Bot WhatsApp Using Lib Baileys Multi Device",
   "main": "start.js",
@@ -21,7 +21,7 @@
     "bot-wa",
     "multi-device"
   ],
-  "author": "Nazedev",
+  "author": "f1qxzz",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys" : "latest",
