@@ -3,7 +3,7 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['62895422604542','6287787968135','6289643780393']
+global.owner = ['62895422604542','6285802674685','6289643780393']
 global.packname = 'V4'
 global.author = 'f1qxzz'
 global.botname = 'f1q V4'
